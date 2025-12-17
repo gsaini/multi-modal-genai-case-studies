@@ -1,5 +1,12 @@
 # Multi-Modal GenAI Case Studies
 
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-8A2BE2?style=for-the-badge&logo=stability-ai&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
 A personal collection of multimodal generative AI case studies, experiments, and learning materials. This repository serves as a practical workspace for exploring, reproducing, and sharing compact examples that demonstrate common multimodal GenAI workflows.
 
 ## 📋 Repository Structure
